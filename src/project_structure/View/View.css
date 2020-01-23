@@ -1,0 +1,27 @@
+#View{
+    height: 80px;
+    margin: 5px;
+    color: #fff;
+    background-color: rgba(13, 39, 67, 0.671);
+}
+
+.value{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 2px;
+    font-size: 15px;
+}
+
+.value div{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.input{
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.input div{
+    margin-left: 8px;
+}

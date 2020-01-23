@@ -1,0 +1,27 @@
+#Control {
+    
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px 0 5px;
+}
+
+.clear {
+    background-color: rgba(16, 44, 75, 0.473);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    margin: 5px;
+    letter-spacing: 1px;
+    font-size: 20px;
+    cursor: default;
+}
+
+.clear:hover{
+    background-color: rgba(0, 0, 0, 0.616)
+}
